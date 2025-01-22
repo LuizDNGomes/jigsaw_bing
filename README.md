@@ -1,5 +1,6 @@
 Esse código é para solucionar quebras cabeças do Bing, como por exemplo: https://www.bing.com/spotlight/imagepuzzle?form=ML2BF0&OCID=ML2BF0&PUBL=RewardsDO&PROGRAMNAME=BingDailyOfferIN&CREA=ML2BF0
 
+
 Esse código resolve QUALQUER PLUZZE no esquema 0 a 8 onde 0 é o vazio:
 
 123 <br>
@@ -24,6 +25,8 @@ Terceira linha: [6, 7, 8]
 Estado inicial: [0, 1, 2, 3, 4, 5, 6, 7, 8]
 Você confirma esta sequência? [0, 1, 2, 3, 4, 5, 6, 7, 8] (s/n):
 
+
+>>:
 Solução encontrada! Número de movimentos necessários: 22
 Passo 1:
 [0, 1, 2]
