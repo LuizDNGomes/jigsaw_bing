@@ -106,7 +106,6 @@ try:
             step_count += 1
             print(f"Passo {step_count}:")
             print_puzzle(step)
-            input("Pressione Enter para continuar para o próximo movimento...")
     else:
         print("Não foi possível encontrar uma solução para o puzzle.")
 except ValueError as e:
